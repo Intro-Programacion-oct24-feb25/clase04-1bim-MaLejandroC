@@ -18,5 +18,9 @@ public class Ejemplo04 {
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
+    /* print = no salta la linea e imprime todo en una misma linea
+        println = imprime y automaticamente me da un salto de linea */
+    
     }
+    
 }
